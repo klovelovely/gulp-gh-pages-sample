@@ -1,0 +1,6 @@
+{
+  "name": "Gulp-gh-pages-sample",
+  "tagline": "A sample about how to deploy file to branch \"gh-pages\" by gulp plugin \"gulp-gh-pages\"",
+  "body": "# Feel free, It is just a simple test :3\r\n\r\nPoi\r\n\r\n# Headers\r\nTo create a paragraph, simply create a block of text that is not separated by one or more blank lines. Blocks of text separated by one or more blank lines will be parsed as paragraphs.\r\n\r\nIf you want to create a line break, end a line with two or more spaces, then hit Return/Enter.\r\n\r\n# Code Blocks\r\n\r\nMarkdown wraps code blocks in pre-formatted tags to preserve indentation in your code blocks. To create a code block, indent the entire block by at least 4 spaces or one tab. Markdown will strip the extra indentation you’ve added to the code block.",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
